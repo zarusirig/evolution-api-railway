@@ -2,9 +2,8 @@
 
 Production-ready [Evolution API](https://github.com/EvolutionAPI/evolution-api) backend optimized for [Railway.app](https://railway.app) deployment. Enables WhatsApp messaging via a simple REST API.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/new?template=https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/new?template=https://github.com/zarusirig/evolution-api-railway)
 
-> **Update the deploy button URL** above with your actual GitHub repo after pushing.
 
 ---
 
